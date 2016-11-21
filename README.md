@@ -1,0 +1,2 @@
+# newsReader
+Ionic Application
